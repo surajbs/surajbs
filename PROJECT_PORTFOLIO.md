@@ -52,9 +52,9 @@ AI Services & LLM Integrations
 
 | Repository | Purpose | Core Technology | Status |
 |---|---|---|---|
-| [fastapi-task-manager](https://github.com/surajbs/fastapi-task-manager) | Secure Task Management API | FastAPI · JWT · SQLite | 🚧 In Development |
-| [react-task-manager-ui](https://github.com/surajbs/react-task-manager-ui) | Modern Frontend Interface | React · TypeScript | 🚧 In Development |
-| [fullstack-task-manager](https://github.com/surajbs/fullstack-task-manager) | End-to-End Full Stack Application | React · FastAPI | 🎯 Planned |
+| [fastapi-task-manager](https://github.com/surajbs/Workspace/tree/master/task-manager/backend) | Secure Task Management API | FastAPI · JWT · SQLite | 🚧 In Development |
+| [react-task-manager-ui](https://github.com/surajbs/Workspace/tree/master/task-manager/frontend) | Modern Frontend Interface | React · TypeScript | 🚧 In Development |
+| [fullstack-task-manager](https://github.com/surajbs/Workspace/tree/master/task-manager) | End-to-End Full Stack Application | React · FastAPI | 🎯 Planned |
 
 ---
 
