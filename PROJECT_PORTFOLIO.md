@@ -31,10 +31,10 @@ Repository links and implementation details are listed in the Repository Map bel
 ### Core Architecture
 
 ```text
-React Frontend
+React/Angular Frontend
       │
       ▼
-FastAPI Backend
+FastAPI Backend (Python)
       │
       ▼
 Authentication Layer (JWT)
