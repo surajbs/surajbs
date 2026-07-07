@@ -102,7 +102,7 @@ For a complete project portfolio:
 💬 I welcome conversations on **Frontend Architecture · Angular · React · Full Stack Development · FastAPI · AI Engineering · Technical Leadership**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suraj-bs-4344512b8/">
+  <a href="https://www.linkedin.com/in/bssuraj/">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:surajbs91@gmail.com">
