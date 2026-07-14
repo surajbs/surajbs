@@ -52,9 +52,9 @@ AI Services & LLM Integrations
 
 | Repository | Purpose | Core Technology | Status |
 |---|---|---|---|
-| [fastapi-task-manager](https://github.com/surajbs/Workspace/tree/master/task-manager/backend) | Secure Task Management API | FastAPI · SQLAlchemy · JWT · SQLite | ✅ Completed  |
-| [react-task-manager-ui](https://github.com/surajbs/Workspace/tree/master/task-manager/frontend) | Modern Frontend Interface | React 19 · Vite · Context API · Axios | ✅ Completed  |
-| [fullstack-task-manager](https://github.com/surajbs/Workspace/tree/master/task-manager) | End-to-End Full Stack Application | React 19 · FastAPI · SQLAlchemy · SQLite | ✅ Completed |
+| [fastapi-task-manager](https://github.com/surajbs/task-manager/tree/master/task-manager/backend) | Secure Task Management API | FastAPI · SQLAlchemy · JWT · SQLite | ✅ Completed  |
+| [react-task-manager-ui](https://github.com/surajbs/task-manager/tree/master/task-manager/frontend) | Modern Frontend Interface | React 19 · Vite · Context API · Axios | ✅ Completed  |
+| [fullstack-task-manager](https://github.com/surajbs/task-manager/tree/master/task-manager) | End-to-End Full Stack Application | React 19 · FastAPI · SQLAlchemy · SQLite | ✅ Completed |
 
 ---
 
