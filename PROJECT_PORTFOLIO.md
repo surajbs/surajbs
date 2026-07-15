@@ -40,7 +40,10 @@ FastAPI Backend (Python)
 Authentication Layer (JWT)
       │
       ▼
-SQLite / PostgreSQL
+SQLAlchemy ORM
+      │
+      ▼
+PostgreSQL (Neon)
       │
       ▼
 AI Services & LLM Integrations
@@ -52,9 +55,9 @@ AI Services & LLM Integrations
 
 | Repository | Purpose | Core Technology | Status |
 |---|---|---|---|
-| [fastapi-task-manager](https://github.com/surajbs/task-manager/tree/master/task-manager/backend) | Secure Task Management API | FastAPI · SQLAlchemy · JWT · SQLite | ✅ Completed  |
+| [fastapi-task-manager](https://github.com/surajbs/task-manager/tree/master/task-manager/backend) | Secure Task Management API | FastAPI · SQLAlchemy ORM · JWT · PostgreSQL | ✅ Completed  |
 | [react-task-manager-ui](https://github.com/surajbs/task-manager/tree/master/task-manager/frontend) | Modern Frontend Interface | React 19 · Vite · Context API · Axios | ✅ Completed  |
-| [fullstack-task-manager](https://github.com/surajbs/task-manager/tree/master/task-manager) | End-to-End Full Stack Application | React 19 · FastAPI · SQLAlchemy · SQLite | ✅ Completed |
+| [fullstack-task-manager](https://github.com/surajbs/task-manager/tree/master/task-manager) | End-to-End Full Stack Application | React 19 · FastAPI · SQLAlchemy ORM · PostgreSQL | ✅ Completed |
 
 ---
 
