@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suraj-bs-4344512b8/">
+  <a href="https://www.linkedin.com/in/bssuraj/">
     <img src="https://img.shields.io/badge/LinkedIn-Suraj%20BS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:surajbs91@gmail.com">
@@ -49,13 +49,13 @@ For a complete project portfolio:
 
 | Capability Area | Technology Stack |
 |---|---|
-|🎨 **Frontend Architecture** | ![Angular](https://img.shields.io/badge/Angular-v18-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Micro Frontends](https://img.shields.io/badge/Micro_Frontends-Module_Federation-667EEA?style=flat-square) |
+|🎨 **Frontend Architecture** | ![Angular](https://img.shields.io/badge/Angular-v18-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Micro Frontends](https://img.shields.io/badge/Micro_Frontends-Module_Federation-667EEA?style=flat-square) |
 |🌐 **Web Engineering** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) ![Accessibility](https://img.shields.io/badge/WCAG-Accessibility-41CD52?style=flat-square) |
 |🔗 **API Integration** | ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square) |
-|🐍 **Backend Development** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-Validation-E92063?style=flat-square) |
-|🗄️ **Database** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+|🐍 **Backend Development** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat-square) ![Pydantic](https://img.shields.io/badge/Pydantic-Validation-E92063?style=flat-square) |
+|🗄️ **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
 |🤖 **AI & ML** | ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=flat-square) ![LLM](https://img.shields.io/badge/LLM_Applications-8A2BE2?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?style=flat-square) |
-|☁️ **Cloud & Platform** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+|☁️ **Cloud & Platform** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-00E699?style=flat-square&logo=neon&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 |🧪 **DevOps & CI/CD** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 |🎯 **Design & Collaboration** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-Scrum-667EEA?style=flat-square) |
 |👨‍💼 **Leadership** | ![Technical Leadership](https://img.shields.io/badge/Technical-Leadership-667EEA?style=flat-square) ![Mentoring](https://img.shields.io/badge/Mentoring-41CD52?style=flat-square) ![Architecture](https://img.shields.io/badge/Architecture-Design-FF6600?style=flat-square) |
